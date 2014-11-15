@@ -1,7 +1,7 @@
 {
   "name": "git-cheat-sheet",
   "version": "1.0.0",
-  "description": "Git Cheat Sheet",
+  "description": "Cheat sheet for common git commands & workflows",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,5 +27,13 @@
   "bugs": {
     "url": "https://github.com/danielsmcclintock/git-cheat-sheet/issues"
   },
-  "homepage": "https://github.com/danielsmcclintock/git-cheat-sheet"
+  "homepage": "https://github.com/danielsmcclintock/git-cheat-sheet",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
 }

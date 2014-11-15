@@ -1,0 +1,32 @@
+/**
+ *
+ * Theme Styles
+ * @author Dan McClintock
+ * version 0.0.1
+ *
+ */
+
+/*
+	 Custom Styles
+	 ========================================================================== */
+pre.acc {
+	padding: 10px;
+	// font-family: 'Menlo', monospace;
+	font-family: monospace;
+	font-size: 12px;
+	background-color: #2d2d2d;
+	in {
+		color: #ececec;
+		&:before { content: "$ "; }
+		> cmd {
+			color: #fda623;
+		}
+		> em {
+			color: #d7849c;
+			font-style: italic;
+		}
+	}
+	out {
+		color: #a3ec58;
+	}
+}

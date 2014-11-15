@@ -1,0 +1,33 @@
+{
+	"name": "git-cheat-sheet",
+	"version": "1.0.0",
+	"authors": [
+		"Daniel McClintock <dmcclintock@acreativecollective.co>"
+	],
+	"description": "Cheat sheet for common git commands & workflows",
+	"moduleType": [
+		"node"
+	],
+	"keywords": [
+		"git",
+		"git",
+		"cheatsheet",
+		"git",
+		"cheat",
+		"sheet",
+		"git",
+		"commands",
+		"git",
+		"workflow"
+	],
+	"license": "MIT",
+	"homepage": "http://acreativecollective.com",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"source_files",
+		"test",
+		"tests"
+	]
+}
