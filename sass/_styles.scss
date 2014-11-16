@@ -6,15 +6,152 @@
  *
  */
 
-/*
-	 Custom Styles
-	 ========================================================================== */
-pre.acc {
-	padding: 10px;
-	// font-family: 'Menlo', monospace;
-	font-family: monospace;
-	font-size: 12px;
-	background-color: #2d2d2d;
+
+/*==========  Reset  ==========*/
+
+* {
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+	position: relative;
+}
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+
+/*==========  Typography  ==========*/
+
+p, ul, ol, table, hr, .p,
+h1, h2 {
+	margin-bottom: 30px;
+	margin-bottom: 1.5rem;
+}
+h1 {
+	font-weight: 400;
+	font-size: 3rem;
+	line-height: 1;
+}
+h2 {
+	font-weight: 700;
+	font-size: .9rem;
+	line-height: 1.5789473684;
+	margin-bottom: 0;
+}
+h3 {
+	font-size: .75rem;
+	line-height: 2;
+	font-weight: 400;
+}
+a {
+	color: #cc4400;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
+}
+.intro:first-line {
+	font-variant: small-caps;
+	letter-spacing: .05em;
+}
+.clearall {
+	clear: both;
+}
+
+
+/*==========  Main  ==========*/
+
+::selection {
+	background-color: #a3aab3;
+}
+::-moz-selection {
+	background-color: #a3aab3;
+}
+html {
+	font: 110%/1.5 "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	color: #222;
+	font-weight: 300;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+/*==========  Custom Styles  ==========*/
+
+.container {
+	width: 90%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+header {
+	text-align: center;
+	h1 {
+		width: 70%;
+		margin: 1em auto;
+	}
+	nav {
+		text-align: center;
+		padding: 0.25em;
+		background-color: #1c1c1c;
+		li {
+			display: inline;
+			a {
+				font-weight: bold;
+				text-transform: uppercase;
+				&:before { content: "{ ";}
+				&:after { content: " }"; }
+			}
+		}
+	}
+}
+main {
+
+}
+section {
+	float: left;
+	width: 80%;
+	padding-right: 0.5em;
+}
+aside {
+	float: left;
+	width: 20%;
+	padding-left: 0.5em;
+	nav {
+	}
+	a {
+		font-size: .7rem;
+		display: block;
+		width: 100%;
+	}
+}
+footer {
+	color: #ececec;
+	font-size: 80%;
+	text-align: center;
+	margin-top: 2em;
+	padding: 0.25em;
+	background-color: #2b2b2b;
+}
+
+
+// Highlight.js
+.hljs { tab-size: 2; }
+
+// Custom .acc <pre> styles
+pre code.acc {
+	// padding: 10px;
+	// font-family: monospace;
+	// font-size: 12px;
+	// background-color: #2d2d2d;
+	// tab-size: 2;
 	in {
 		color: #ececec;
 		&:before { content: "$ "; }
@@ -28,5 +165,25 @@ pre.acc {
 	}
 	out {
 		color: #a3ec58;
+	}
+}
+
+
+/*==========  Media Queries  ==========*/
+
+@media screen and (max-width: 760px) {
+	html {
+		font-size: 100%;
+		height: auto;
+		min-height: 100%;
+	}
+	.container {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+	p, ul, ol, table, hr, .p, h1, h2  {
+		padding-left: 1em;
+		padding-right: 1em;
 	}
 }

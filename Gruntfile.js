@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 
 		concat: {
 			fastclick: {
-				src: ['node_modules/highlight.js/styles/tomorrow-night-eighties.css'],
+				src: ['js/highlight/styles/tomorrow-night.css'],
 				dest: 'sass/_highlight.scss'
 			}
 		},

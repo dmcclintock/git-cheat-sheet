@@ -1,0 +1,1686 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"com-long	Idiomatic CSS - Longer Descriptor Comment"
+			],
+			[
+				"comm",
+				"comm-todo	Comment - To-do list"
+			],
+			[
+				"c-",
+				"com-long	Idiomatic CSS - Longer Descriptor Comment"
+			],
+			[
+				"c-to",
+				"com-todo	Idiomatic CSS - Todo Comment"
+			],
+			[
+				"eq",
+				"eq_participant_type"
+			],
+			[
+				"acc_",
+				"acc_page_header_image"
+			],
+			[
+				"lucky",
+				"lucky-featured-horizontal"
+			],
+			[
+				"wpcf-",
+				"wpcf-header-image"
+			],
+			[
+				"com-",
+				"comm-section-header	Comment - Section header comment"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"com-t",
+				"comm-todo	Comment - To-do list"
+			],
+			[
+				"task",
+				"task2"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"comm-",
+				"comm-section	Comment - Full section comment"
+			],
+			[
+				"comm-s",
+				"comm-subsection	Comment - Subsection comment"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/index.php",
+			"settings":
+			{
+				"buffer_size": 921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_styles.scss",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 272.0,
+		"selected_items":
+		[
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sssc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"ssja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"file new",
+				"File: New File Relative to Current View"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"ssmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmk",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ssma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fon",
+				"ASCII Decorator: Font Favorites"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"font",
+				"ASCII Decorator: Font Favorites"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssscs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"ASCII Decorator: Font Favorites"
+			],
+			[
+				"hist",
+				"Local History: Browse"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"ascii",
+				"ASCII Decorator: Generate Font Test"
+			],
+			[
+				"asci",
+				"ASCII Decorator: Font Favorites"
+			],
+			[
+				"dupi",
+				"File: Duplicate"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"sss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"CON ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscs",
+				"Set Syntax: CSS"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"ss php",
+				"Set Syntax: PHP"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ss xml",
+				"Set Syntax: XML"
+			],
+			[
+				"ss txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			],
+			[
+				"ss htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"histo",
+				"Local History: Browse"
+			],
+			[
+				"file histo",
+				"File History: Current Project: Open recently closed file"
+			],
+			[
+				"ss java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"js",
+				"Format: Javascript"
+			],
+			[
+				"ssscss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ss js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"javas",
+				"Format: Javascript"
+			],
+			[
+				"ss",
+				"Set Syntax: JSON"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"duplic",
+				"File: Duplicate"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse from current folder"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"ss task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"goto",
+				"Bookmarks: Goto Bookmark"
+			],
+			[
+				"add",
+				"Bookmarks: Add Bookmark"
+			],
+			[
+				"goto ",
+				"Bookmarks: Goto Bookmark"
+			],
+			[
+				"book",
+				"Bookmarks: Goto Bookmark"
+			],
+			[
+				"bookmark",
+				"Bookmarks: Add Bookmark"
+			],
+			[
+				"ss todo",
+				"Set Syntax: ToDone"
+			],
+			[
+				"sstod",
+				"Set Syntax: ToDone"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"ssj ",
+				"Set Syntax: JSON"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ss sas",
+				"Set Syntax: SASS"
+			],
+			[
+				"ss ",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss j",
+				"Set Syntax: JSON"
+			],
+			[
+				"sssass",
+				"Set Syntax: SASS"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ssjav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"fold",
+				"Project: Add Folder"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet"
+	],
+	"file_history":
+	[
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/git_cheat_sheet.sublime-project",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/style.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_styles.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/css/style.css",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/Gruntfile.js",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/node_modules/highlight.js/package.json",
+		"/Users/danielsmcclintock/acc/viewrc/acc-TripleThreat/lucky-v0.1.4/README.md",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_highlight.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/package.json",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_style.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_mixins.scss",
+		"/Users/danielsmcclintock/acc/viewrc/luckyduckclub/wp-content/themes/luckyduckclub/sass/_variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/luckyduckclub/wp-content/themes/luckyduckclub/sass/styles.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/node_modules/highlight.js/styles/tomorrow-night-eighties.css",
+		"/Users/danielsmcclintock/acc/viewrc/luckyduckclub/wp-content/themes/luckyduckclub/Gruntfile.js",
+		"/Users/danielsmcclintock/acc/viewrc/lucky/wp-content/themes/lucky/Gruntfile.js",
+		"/Users/danielsmcclintock/acc/viewrc/acc-TripleThreat/lucky-v0.1.4/Gruntfile.js",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/bower.json",
+		"/Users/danielsmcclintock/acc/viewrc/acc-TripleThreat/lucky-v0.1.4/bower.json",
+		"/Users/danielsmcclintock/acc/viewrc/acc-TripleThreat/lucky-v0.1.4/package.json",
+		"/Users/danielsmcclintock/acc/viewrc/acc-responsive/index.html",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/header.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/plugins/accelerator/accelerator.php",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/acc-styles.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/accelerator/css/_variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/accelerator/css/accelerator.css",
+		"/Users/danielsmcclintock/acc/viewrc/acc-git/accelerator/accelerator.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/functions.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/functions.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/includes/helper-main-menu.php",
+		"/Users/danielsmcclintock/Downloads/|browser/fontello-c8235079/demo.html",
+		"/Users/danielsmcclintock/Downloads/|browser/fontello-c8235079/css/fontello.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/includes/helper-social-media.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/charmap.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/plugins/accelerator/css/_variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/luckyduckclub/wp-content/plugins/accelerator/accelerator.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/footer.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/assets/js/custom.js",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/assets/js/custom-portfolio.js",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/single-portfolio.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/includes/loop-portfolio-single.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/includes/loop-page.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/includes/loop-author.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/includes/loop-index.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/archive.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/artbookprinting/source_files/artbookprinting_com-wptheme.sublime-project",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/functions.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/includes/helper-main-menu.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/header.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/footer.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/acc-styles.scss",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/assets/js/custom.js",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/style.css",
+		"/Applications/XAMPP/xamppfiles/etc/php.ini",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Packages/User/Snippets/PHP/this.sublime-snippet",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/plugins/aCCelerator/aCCelerator.php",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/aCC_3da/functions.php",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/aCC_3da/header.php",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/emporium/functions.php",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/emporium/readme.txt",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/emporium/styles-acc.css",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/emporium/style.css",
+		"/Users/danielsmcclintock/sites/acc-dev/luckyduckcoffee/wp-content/themes/luckyduck/includes/resources/bootstrap/scss/bootstrap.scss",
+		"/Users/danielsmcclintock/sites/acc-dev/luckyduckcoffee/wp-content/themes/luckyduck/includes/resources/bootstrap/scss/_variables.scss",
+		"/Users/danielsmcclintock/sites/acc-dev/lucky/wp-content/plugins/aCCelerator/aCCelerator.php",
+		"/Users/danielsmcclintock/sites/acc-dev/lucky/wp-content/plugins/aCCelerator/aCCelerator-old.phpx",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/themes/aCC_3da/style.css",
+		"/Users/danielsmcclintock/sites/acc-dev/3dadisplay/wp-content/plugins/aCCelerator/aCCelerator-v1.php",
+		"/Users/danielsmcclintock/sites/acc-dev/luckyduckcoffee/wp-content/themes/accelerator/assets/styles/source/style.scss",
+		"/Users/danielsmcclintock/sites/acc-dev/luckyduckcoffee/wp-content/themes/accelerator/style.css",
+		"/Users/danielsmcclintock/sites/acc-dev/mariannaheule/wp-content/themes/mariannaheule/library/sass/_variables.scss",
+		"/Users/danielsmcclintock/sites/acc-dev/mariannaheule/wp-content/plugins/aCCelerator/aCCelerator.php",
+		"/Users/danielsmcclintock/sites/acc-dev/haventoday/css/custom.css",
+		"/Users/danielsmcclintock/sites/acc-dev/honormrcarr/wp-content/themes/dazzling/style.css",
+		"/Users/danielsmcclintock/sites/acc-dev/blankSlate/css/custom.css",
+		"/Users/danielsmcclintock/sites/acc-dev/honormrcarr/wp-content/themes/acc-mrcarr/style.css",
+		"/Users/danielsmcclintock/sites/acc-dev/honormrcarr/wp-content/themes/acc-mrcarr/css/custom.css",
+		"/Users/danielsmcclintock/sites/acc-dev/honormrcarr/wp-content/themes/acc-mrcarr/css/bootstrap.css",
+		"/Users/danielsmcclintock/sites/acc-dev/honormrcarr/wp-content/themes/acc-mrcarr/functions.php",
+		"/Users/danielsmcclintock/sites/ThemeBootsie/library/sass/_variables.scss",
+		"/Users/danielsmcclintock/sites/bootsie/_variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/afternoondelightgr/styles.scss",
+		"/Users/danielsmcclintock/acc/viewrc/equestcenter/wp-content/themes/mystrap/library/sass/_variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/equestcenter/wp-content/themes/mystrap/style.css",
+		"/Users/danielsmcclintock/acc/viewrc/equestcenter/wp-content/plugins/aCCelerator/aCCelerator.php",
+		"/Users/danielsmcclintock/acc/viewrc/equestcenter/wp-content/plugins/aCCelerator/aCCelerator-v1.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinters/wp-content/themes/the_theme/library/css/gangnam.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinters/wp-content/themes/the_theme/style.css",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Installed Packages/Base16 Color Schemes.sublime-package",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/danielsmcclintock/acc/viewrc/equestfund/wp-content/themes/equestcenter/header.php",
+		"/Users/danielsmcclintock/Downloads/|browser/animsition-master/dist/css/animsition.css",
+		"/Users/danielsmcclintock/Downloads/|browser/animsition-master/dist/css/animsition.min.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/_yif-custom-style-child-theme.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/assets/css/oblurlay.min.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/header.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/includes/helper-main-menu.php",
+		"/Users/danielsmcclintock/Desktop/functions.php",
+		"/Users/danielsmcclintock/Library/Caches/Cleanup At Startup/Transmit/464729BD-F3F7-4D09-9E69-64562CBC7DC3/wp-config.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/single.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold/template-builder.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/plugins/advanced-menu-widget/advanced-menu-widget.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/plugins/advanced-menu-widget/amw.js",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/plugins/advanced-menu-widget/readme.txt",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/functions.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/style.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/_yif-custom-style-child-theme.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/includes/yif-enqueue-stylesheets.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/js/_yif-custom-js-child-theme.js",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/acc-artbookprinting/fonts/_yif-custom-fonts-style-child-theme.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/includes/yif-enqueue-stylesheets.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/includes/yif-enqueue-scripts.php",
+		"/Users/danielsmcclintock/acc/viewrc/ldclub/wp-content/themes/lucky/style.css",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/includes/theme/yif-theme-general-functions.php",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/includes/wordpress/yif-wordpress-general-functions.php",
+		"/Users/danielsmcclintock/acc/viewrc/acc-TripleThreat/lucky-v0.1.1/screenshot.png",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/js/_yif-custom-js-child-theme.js",
+		"/Users/danielsmcclintock/acc/viewrc/artbookprinting/wp-content/themes/enfold-child/fonts/_yif-custom-fonts-style-child-theme.css",
+		"/Users/danielsmcclintock/acc/viewrc/_projects/equestfund/_assets/todo.md",
+		"/Users/danielsmcclintock/acc/viewrc/_projects/equestfund/_assets/_siteMap.md",
+		"/Users/danielsmcclintock/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/README.md",
+		"/Users/danielsmcclintock/acc/viewrc/ldclub/wp-content/themes/equestcenter/library/bootstrap/_custom-variables.scss",
+		"/Users/danielsmcclintock/acc/viewrc/ldclub/wp-content/themes/equestcenter/library/bootstrap/_custom-media-queries.scss",
+		"/Users/danielsmcclintock/acc/viewrc/ldclub/wp-content/themes/equestcenter/library/bootstrap/_custom.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Applications/MAMP/htdocs/acc-dev/lucky/wp-content/themes/enfold",
+			"/Applications/MAMP/htdocs/acc-dev/luckyy/wp-content/themes/",
+			"/Applications/MAMP/htdocs/acc-dev/luckyduck/wp-content/themes/",
+			"/Applications/MAMP/htdocs/acc-dev/luckyduck/wp-content/themes/dazzling",
+			"/Applications/MAMP/htdocs/acc-dev/luckyduck/wp-content/themes/acc-luckyduckcoffee",
+			"/Users/danielsmcclintock/Desktop/themeforest-6519550-angle-flat-responsive-bootstrap-multipurpose-theme/angle/",
+			"/Users/danielsmcclintock/Desktop/themeforest-6519550-angle-flat-responsive-bootstrap-multipurpose-theme/angle/assets/js",
+			"/Applications/MAMP/htdocs/acc-dev/luckyduck/wp-content/themes/",
+			"/Applications/MAMP/htdocs/acc-dev/luckyduckcoffee/wp-content/themes/luckyduck",
+			"/Applications/MAMP/htdocs/acc-dev/luckyduckcoffee/wp-content/themes/accelerator",
+			"/Applications/MAMP/htdocs/acc-dev/wowimskinny/wp-content/themes/the_skinny_theme/library",
+			"/Users/danielsmcclintock/Dropbox/_aCC/acc/artbookprinters/wp-content/themes/the_theme",
+			"custom.js",
+			"",
+			"/tacobar/*",
+			"/tacobar/",
+			"/",
+			"",
+			"wp-content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"outpt",
+			"<outpt>",
+			"cmd",
+			"outpt",
+			"output",
+			"pre code.bash",
+			"command-line",
+			".markdown-format",
+			"# ",
+			"Variables",
+			"styles",
+			"font-family",
+			"avia_desktop",
+			"important",
+			"advanced_menu_hide",
+			"0px none",
+			" 0%;",
+			"scale",
+			"0.5",
+			"icon",
+			"automatic",
+			"mobile_menu",
+			"$icon",
+			"av_icon_string",
+			"list",
+			"ue811",
+			"entypo",
+			"av_icon_string",
+			"icon",
+			"scale",
+			"acc-artbook-portfolio-custom",
+			"aCCelerator",
+			"accelerator",
+			"global",
+			"filter_posts_list",
+			"addClass",
+			"'",
+			"\"",
+			"'",
+			"   ",
+			") {",
+			"echo",
+			"Click to leave a VM",
+			"acc_avail_large",
+			"Heule",
+			"echo",
+			" // ",
+			"echo",
+			"evening",
+			"afternoon",
+			"elseif",
+			"echo",
+			"friday",
+			"\"",
+			"Click",
+			"current_day",
+			"current_time",
+			"array",
+			"#footer {",
+			"#footer ",
+			"#footer",
+			"Questions",
+			"at",
+			"message",
+			"large",
+			"none;",
+			";",
+			"&",
+			"%",
+			"-menu",
+			"avia3",
+			"\"",
+			"em",
+			"text-align",
+			"footer#socket",
+			"media",
+			"-",
+			"oblur",
+			"; ",
+			"#header_main",
+			"padding",
+			"top",
+			".widget_nav_menu",
+			"1",
+			"0",
+			"footer .widget",
+			"animsition",
+			"$",
+			"fade",
+			"foo",
+			"oblurlay",
+			"65px",
+			"70px",
+			"oblurlay",
+			"kb_enqueue_scripts",
+			"oblurlay",
+			"child-theme-custom-added-style",
+			"do_yif_enqueue_style_last",
+			"do_yif_enqueue_scripts",
+			"710",
+			"ededed",
+			"menu-fx",
+			".navbar-nav",
+			"h1",
+			"A30B35",
+			"nav",
+			"avia-post-nav",
+			"avia-post-next-with-image",
+			"enfold-child",
+			"?>",
+			"enfold-child",
+			"	",
+			"// ",
+			" {",
+			"$",
+			"margin",
+			"main",
+			"div",
+			"section",
+			"div",
+			"header",
+			"section",
+			"header",
+			"section",
+			"article",
+			"h2",
+			"div",
+			"5s"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"luckyduck-",
+			" LuckyDuck",
+			"luckyduck_",
+			"'luckyduck'",
+			"jQuery",
+			"form#gform_2 .menu-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								921,
+								921
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "plain text",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/aCC-phoenix-dark.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/danielsmcclintock/acc/viewrc/acc-git/git-cheat-sheet/sass/_styles.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+							"gutter_color_190":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_201":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_230":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_231":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_239":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_240":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_248":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_250":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_251":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#2d2d2d.png",
+								"regions":
+								[
+									[
+										279,
+										306
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_258":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_262":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_267":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_275":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_277":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_279":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#2d2d2d.png",
+								"regions":
+								[
+									[
+										279,
+										306
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_286":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_289":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_292":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_294":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_297":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_298":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_313":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ececec.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_314":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										313,
+										330
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_316":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_321":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_324":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_325":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_343":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_344":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_371":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#fda623.png",
+								"regions":
+								[
+									[
+										371,
+										389
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_372":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#63E463.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_399":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_403":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#d7849c.png",
+								"regions":
+								[
+									[
+										403,
+										421
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_404":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#7e9d43.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_424":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#F9FE64.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_431":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_459":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#a3ec58.png",
+								"regions":
+								[
+									[
+										459,
+										476
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/aCC-phoenix-dark.tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.figlet_preview":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "git_cheat_sheet.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wp-content/themes/tacobar",
+				"wp-content/themes/tacobarco"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
